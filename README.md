@@ -1,12 +1,12 @@
 # Coding-Challenge
 Android Coding Challenge
 
-List of Functionalities Implemented
-i. Allows user to authenticate with Dropbox Credentials
-ii. Allows user to take photo
-iii. Uploads the photo to a Directory named Cilent Test on Dropbox
-iv. Lists all photos and also allow users to view them.
-[IF IMAGE TEXTURE IS TOO LARGE TO BE DISPLAYED THEY ARE DOWNSAMPLED BEFORE DISPLAYED TO THE USER]
+List of Functionalities Implemented<br />
+i. Allows user to authenticate with Dropbox Credentials<br />
+ii. Allows user to take photo<br />
+iii. Uploads the photo to a Directory named Cilent Test on Dropbox<br />
+iv. Lists all photos and also allow users to view them.<br /><br />
+[IF IMAGE TEXTURE IS TOO LARGE TO BE DISPLAYED THEY ARE DOWNSAMPLED BEFORE DISPLAYED TO THE USER]<br />
 
 Additional Functionalities Implemented
 i. Records GPS co-ordinates of photo exif data 
