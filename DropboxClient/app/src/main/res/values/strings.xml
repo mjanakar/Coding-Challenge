@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dropbox Client</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="KEY">30l18kx1hdds7ub</string>
+    <string name="SECRET">yjbjdikfjg2690o</string>
+</resources>
