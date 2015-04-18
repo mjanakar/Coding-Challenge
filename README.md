@@ -18,3 +18,4 @@ iv. Title of the photo contains the name of the city where the photo is taken fr
 [IF CITY CANNOT BE RESOLVED UNKOWN IS WRITTEN TO THE TITLE]<br />
 v. Allows users to record sounds and upload it to the dropbox.<br />
 vi. Allows users to create notes and save them online.<br />
+vii. A signed apk in release mode is also added to the repositiory.
