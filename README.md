@@ -2,7 +2,7 @@
 Android Coding Challenge
 
 List of Functionalities Implemented
-i. Allows user to authenticate with Dropbox Credentials
+i. Allows user to authenticate with Dropbox Credentials\n
 ii. Allows user to take photo
 iii. Uploads the photo to a Directory named Cilent Test on Dropbox
 iv. Lists all photos and also allow users to view them.
