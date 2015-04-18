@@ -9,7 +9,7 @@ iv. Lists all photos and also allow users to view them.<br />
 [IF IMAGE TEXTURE IS TOO LARGE TO BE DISPLAYED THEY ARE DOWNSAMPLED BEFORE DISPLAYED TO THE USER]<br />
 
 Additional Functionalities Implemented<br />
-i. Records GPS co-ordinates of photo exif data <br />
+i. Records GPS co-ordinates in the photo exif data <br />
 [IF GPS NOT AVAILABLE ENABLED TO GET CO-ORDINATES FROM WIFI/MOBILE NETWORK]<br />
 ii.Displays Latitute and Logitude of the selected image as a Toast message when viewed. <br />
 [IF GPS CO-ORDINATE NOT AVAILABE 0.0f IS DISPLAYED FOR BOTH]<br />
